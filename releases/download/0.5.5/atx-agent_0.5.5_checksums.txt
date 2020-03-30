@@ -1,0 +1,5 @@
+93aeccd994adba402e7df703c254cd05a459fc08dcb9d15a38d140d4dc83924b  atx-agent_0.5.5_linux_armv7.tar.gz
+68ec9cc1ca973ab333f25770034466c4022ebe968b973bf824c3164dcaa7d60b  atx-agent_0.5.5_linux_amd64.tar.gz
+f4a6229c5585e47cbae26fbb7ca3760d8789551bf492f33de84a550818ff11d7  atx-agent_0.5.5_linux_armv6.tar.gz
+d33e79df9edc30a8260059fe8521bf0b7e2f79b064a3aa5bef1fc13bfc28e86e  atx-agent_0.5.5_windows_amd64.tar.gz
+06e8fae0307e83f49fa9c4ebf8ba8792316970d55bec9701964dc4863fa17abf  atx-agent_0.5.5_linux_386.tar.gz
